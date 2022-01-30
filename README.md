@@ -12,4 +12,4 @@ of people with mental health related illnesses corresponding to the environmenta
 This was accomplished through the use of several environmental and mental healthrelated data sets gathered from New Zealand government sources. 
 A ridge regression analysis was carried out using R Studio, which showed correlations between air pollution levels and rainfall to mental health outcomes.
 
-The selected envrionmental factors in this project are air quality (PM10), rainfall, temperature, and earthquake
+The selected envrionmental factors in this project are air quality (PM10), rainfall, temperature, and earthquake.
